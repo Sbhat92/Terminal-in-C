@@ -1,2 +1,2 @@
 # Terminal
- Terminal inplemented in C that can excepcute the cd, help and exit command
+ Terminal inplemented in C that can excecute the cd, help and exit command
